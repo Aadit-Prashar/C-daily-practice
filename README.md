@@ -8,7 +8,7 @@ This repository contains my daily C++ programs and practice exercises as I learn
 
 ## 📖 About
 
-I am a **B.Tech Computer Science (1st Year)** student, and this repository documents my journey of learning C++. I regularly upload programs based on the topics I study to strengthen my programming fundamentals and prepare for Data Structures & Algorithms (DSA).
+I am a **B.Tech Computer Science (2nd Year)** student, and this repository documents my journey of learning C++. I regularly upload programs based on the topics I study to strengthen my programming fundamentals and prepare for Data Structures & Algorithms (DSA).
 
 ---
 
